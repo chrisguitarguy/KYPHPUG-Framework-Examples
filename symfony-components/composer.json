@@ -1,0 +1,12 @@
+{
+    "name": "chrisguitarguy/kyphpug-frameworks-symfony-components",
+    "description": "Small example of symfony components",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6",
+        "symfony/http-foundation": "~2.6",
+        "symfony/http-kernel": "~2.6",
+        "symfony/event-dispatcher": "~2.6",
+        "symfony/routing": "~2.6"
+    }
+}
