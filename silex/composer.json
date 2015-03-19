@@ -1,5 +1,5 @@
 {
-    "name": "chrisguitarguy/kyphpug-frameworks-symfony-components",
+    "name": "chrisguitarguy/kyphpug-frameworks-silex",
     "description": "Small example of symfony components",
     "license": "MIT",
     "require": {
